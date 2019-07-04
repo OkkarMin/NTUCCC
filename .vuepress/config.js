@@ -1,7 +1,7 @@
 module.exports = {
   title: 'NTU CCC',
   description: 'Resource site for participants of NTU Cloud Computing Challenge',
-  base: 'NTUCCC',
+  base: '/NTUCCC/',
   dest: 'docs',
   plugins: [
     ['container', {
