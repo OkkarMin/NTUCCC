@@ -24,21 +24,17 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
 
 Don't worry, we will be teaching you necessary knowledge and skills required through our **courses held on  7 Dec 2019 (Sat) @ NTU**
 
-::: warning
-More information on courses and schedule will up soon.
-:::
-
 ### What am I supposed to do? :thinking:
 
 1. Form a group of 4-5 students
 2. Register on [registration link here](./#)
-3. Check [important dates and schedules](../important_dates_schedule.md)
+3. Check [Important Dates & Schedule](../important_dates_schedule.md)
 4. Attend **courses held on  7 Dec 2019 (Sat) @ NTU**
 5. Review, Revise and Practice
 6. Attend actual **computing challenge on 11-12 Jan 2019 (Sat-Sun) @ NTU**
 
 ::: tip
-Regularly check important dates and schedules as they may change
+Regularly check [Important Dates & Schedule](../important_dates_schedule.md) as they may change
 :::
 
 <br>
