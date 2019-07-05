@@ -3,11 +3,11 @@ prev: /module_1/
 next: ./website_vs_webapp.md
 ---
 
-# The Internet
+# The Internet :earth_asia:
 
 > TLDR: Routers Moving Packets According To Various Protocols
 
-## How does the Internet Work? :earth_asia:
+## How does the Internet Work? :thinking:
 
 Works through a packet routing network according to the *Internet Protocol (IP)*, *Transport Control Protocol(TCP)* and other protocols.
 
