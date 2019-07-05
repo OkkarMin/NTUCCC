@@ -13,10 +13,20 @@ module.exports = {
       before: info => `<div class="theorem"><p class="title">${info}</p>`,
       after: '</div>',
     }],
+    [
+      '@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          const moment = require('moment')
+          moment.locale(lang)
+          return moment(timestamp).format("Do MMMM YYYY, dddd")
+        }
+      }
+    ]
   ],
   theme: '@vuepress/theme-default',
   themeConfig: {
-    // lastUpdated: 'Last Updated',
+    lastUpdated: 'Last Updated',
     nav: [
       {
         text: 'Modules',
@@ -34,7 +44,8 @@ module.exports = {
             ]
           }
         ]
-      }
+      },
+      { text: 'Important Dates', link: '/important_dates'},
     ],
     sidebar: [
       {
