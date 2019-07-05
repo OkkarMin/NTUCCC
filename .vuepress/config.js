@@ -45,7 +45,7 @@ module.exports = {
           }
         ]
       },
-      { text: 'Important Dates', link: '/important_dates'},
+      { text: 'Important Dates & Schedule', link: '/important_dates_schedule'},
     ],
     sidebar: [
       {
