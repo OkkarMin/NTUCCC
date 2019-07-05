@@ -17,6 +17,12 @@ sidebar: false
 
 ## Schedule
 
+### 7 Dec 2019
+
+::: tip
+Check this page regularly
+:::
+
 ::: warning
 More information on courses and schedule will up soon.
 :::
