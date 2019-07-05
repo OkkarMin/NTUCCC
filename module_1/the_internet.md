@@ -33,8 +33,8 @@ We call looking up the IP address of a human-readable domain name like `www.goog
 
 | Domain name      	| :arrow_right: 	| IP Address     	|
 |:----------------:	|----------------	|:--------------:	|
-| www.google.com   	| :arrow_right: 	| 172.217.194.99 	|
-| www.facebook.com 	| :arrow_right: 	| 157.240.25.35  	|
+| `www.google.com`  | :arrow_right: 	| `172.217.194.99`|
+| `www.facebook.com`| :arrow_right: 	| `157.240.25.35`	|
 
 ## How do applications communicate over the internet? :iphone::left_right_arrow::computer:
 
