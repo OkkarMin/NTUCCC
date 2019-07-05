@@ -1,6 +1,6 @@
 ---
 prev: false
-next: ./the_internet
+next: ./the_internet.md
 ---
 
 # Module 1 - Introduction
