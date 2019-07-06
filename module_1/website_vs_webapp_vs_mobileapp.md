@@ -1,4 +1,9 @@
-# Website vs Webapp
+---
+prev: ./the_internet.md
+next: false
+---
+
+# Website vs WebApp vs MobileApp :page_facing_up::vs::earth_africa::vs::iphone:
 
 ## Website :page_facing_up:
 
@@ -6,14 +11,16 @@ A website is a *compilation of a set of web pages* viewed with a browser. It is 
 
 Think of a conference where attendees do not involve in interaction.
 
-## Webapp :iphone:
+## WebApp :earth_africa:
 
-Webapp are *interactive websites* like Facebook, Youtube etc. User engagement is an integral part of web applications.
+WebApp are *interactive websites* like Facebook, Youtube etc. User engagement is an integral part of web applications.
 
 Think of a networking event where it is necessary for audiences to engage for value enhancement.
 
+## MobileApp :iphone:
 
-## Summary :page_facing_up::vs::iphone:
+
+## Summary :page_facing_up::vs::earth_africa::vs::iphone:
 
 |    :page_facing_up:   	|                     :iphone:                    	|
 |:---------------------:	|:-----------------------------------------------:	|

@@ -1,6 +1,6 @@
 ---
 prev: /module_1/
-next: ./website_vs_webapp.md
+next: ./website_vs_webapp_vs_mobileapp.md
 ---
 
 # The Internet :earth_asia:
@@ -76,4 +76,4 @@ Courtesy of [Steven Li](https://medium.com/@User3141592)
 
 <br>
 
-**Hope you understood it! Next up we have [Website vs Webapp](./website_vs_webapp.md)**
+**Hope you understood it! Next up we have [Website vs WebApp vs MobileApp](./website_vs_webapp_vs_mobileapp.md)**

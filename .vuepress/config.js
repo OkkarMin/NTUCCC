@@ -33,7 +33,7 @@ module.exports = {
             text: 'Module 1 - Introduction',
             items: [
               { text: 'The Internet', link: '/module_1/the_internet.md' },
-              { text: 'Website vs Webapp', link: '/module_1/website_vs_webapp.md' }
+              { text: 'Website vs WebApp vs MobileApp', link: '/module_1/website_vs_webapp_vs_mobileapp.md' }
             ]
           },
           {
@@ -52,7 +52,7 @@ module.exports = {
         path: '/module_1/',      // optional, which should be a absolute path.
         children: [
           { title: 'The Internet', path: '/module_1/the_internet.md' },
-          { title: 'Website vs Webapp', path: '/module_1/website_vs_webapp.md' }
+          { title: 'Website vs WebApp vs MobileApp', path: '/module_1/website_vs_webapp_vs_mobileapp.md' }
         ]
       },
       {
