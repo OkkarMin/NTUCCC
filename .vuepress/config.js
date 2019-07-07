@@ -33,7 +33,8 @@ module.exports = {
             text: 'Module 1 - Introduction',
             items: [
               { text: 'The Internet', link: '/module_1/the_internet.md' },
-              { text: 'Website vs WebApp vs MobileApp', link: '/module_1/website_vs_webapp_vs_mobileapp.md' }
+              { text: 'Website vs WebApp vs MobileApp', link: '/module_1/website_vs_webapp_vs_mobileapp.md' },
+              { text: 'Hosting & Cloud Computing', link: '/module_1/hosting_cloud_computing.md' }
             ]
           },
           {
