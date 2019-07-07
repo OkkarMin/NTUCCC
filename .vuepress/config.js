@@ -62,7 +62,8 @@ module.exports = {
         path: '/module_1/',      // optional, which should be a absolute path.
         children: [
           { title: 'The Internet', path: '/module_1/the_internet.md' },
-          { title: 'Website vs WebApp vs MobileApp', path: '/module_1/website_vs_webapp_vs_mobileapp.md' }
+          { title: 'Website vs WebApp vs MobileApp', path: '/module_1/website_vs_webapp_vs_mobileapp.md' },
+          { title: 'Hosting & Cloud Computing', path: '/module_1/hosting_cloud_computing.md' }
         ]
       },
       {
