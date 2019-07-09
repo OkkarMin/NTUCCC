@@ -39,7 +39,7 @@ module.exports = {
         text: 'Modules',
         items: [
           {
-            text: 'Module 1 - Introduction',
+            text: '1 - Introduction',
             items: [
               { text: 'The Internet', link: '/module_1/the_internet.md' },
               { text: 'Website vs WebApp vs MobileApp', link: '/module_1/website_vs_webapp_vs_mobileapp.md' },
@@ -47,9 +47,33 @@ module.exports = {
             ]
           },
           {
-            text: 'Module 2',
+            text: '2 - Fundamentals',
             items: [
               { text: 'Other Topic', link: '/module_2/other_topic.md' },
+            ]
+          },
+          {
+            text: '3 - Basic Web Development',
+            items: [
+              { text: 'Other Topic', link: '/module_3/other_topic.md' },
+            ]
+          },
+          {
+            text: '4A - WebApp Development',
+            items: [
+              { text: 'Other Topic', link: '/module_4A/other_topic.md' },
+            ]
+          },
+          {
+            text: '4B - MobileApp Development',
+            items: [
+              { text: 'Other Topic', link: '/module_4B/other_topic.md' },
+            ]
+          },
+          {
+            text: '5 - Amazon Amplify',
+            items: [
+              { text: 'Other Topic', link: '/module_5/other_topic.md' },
             ]
           }
         ]
@@ -58,7 +82,7 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Module 1 - Introduction',   // required
+        title: '1 - Introduction',   // required
         path: '/module_1/',      // optional, which should be a absolute path.
         children: [
           { title: 'The Internet', path: '/module_1/the_internet.md' },
@@ -67,10 +91,38 @@ module.exports = {
         ]
       },
       {
-        title: 'Module 2',
+        title: '2 - Fundamentals',
         path: '/module_2/',
         children: [
           '/module_2/other_topic',
+        ]
+      },
+      {
+        title: '3 - Basic Web Development',
+        path: '/module_3/',
+        children: [
+          '/module_3/other_topic',
+        ]
+      },
+      {
+        title: '4A - WebApp Development',
+        path: '/module_4a/',
+        children: [
+          '/module_4A/other_topic',
+        ]
+      },
+      {
+        title: '4B - MobileApp Development',
+        path: '/module_4b/',
+        children: [
+          '/module_4B/other_topic',
+        ]
+      },
+      {
+        title: '5 - Amazon Amplify',
+        path: '/module_5/',
+        children: [
+          '/module_5/other_topic',
         ]
       }
     ]
