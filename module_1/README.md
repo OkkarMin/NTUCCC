@@ -18,7 +18,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
 
 ### What is the scope of this challenge? :dart:
 
-**To develop web-application OR mobile-application and hosting it on cloud computing platform**
+**To develop WebApp OR MobileApp and hosting it on cloud computing platform**
 
 ### I haven't got a single idea to what I just read above :disappointed:
 
