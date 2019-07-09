@@ -20,9 +20,13 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
 
 **To develop WebApp OR MobileApp and hosting it on cloud computing platform**
 
+### Is there a theme for this challenge? :tent:
+
+The theme is **Cloud Computing** your group could work on any WebApp or MobileApp so long as it is hosted on cloud computers
+
 ### I haven't got a single idea to what I just read above :disappointed:
 
-Don't worry, we will be teaching you necessary knowledge and skills required through our **courses held on  7 Dec 2019 (Sat) @ NTU**
+Don't worry :blush:, we will be teaching you necessary knowledge and skills required to participate in the challenge through our **courses held on  7 Dec 2019 (Sat) @ NTU**
 
 ### What am I supposed to do? :thinking:
 
